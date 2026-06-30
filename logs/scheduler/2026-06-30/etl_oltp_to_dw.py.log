@@ -1,0 +1,91 @@
+[2026-06-30T01:05:32.172+0000] {processor.py:186} INFO - Started process (PID=8698) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:05:32.270+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:05:32.320+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:05:32.319+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:05:32.604+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:05:32.783+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:05:32.782+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:05:32.980+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:05:32.979+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:05:33.104+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.956 seconds
+[2026-06-30T01:06:03.497+0000] {processor.py:186} INFO - Started process (PID=8703) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:03.499+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:06:03.503+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:03.503+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:03.531+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:03.570+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:03.570+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:06:03.587+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:03.586+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:06:03.615+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.127 seconds
+[2026-06-30T01:06:34.082+0000] {processor.py:186} INFO - Started process (PID=8708) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:34.084+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:06:34.091+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:34.090+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:34.117+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:06:34.153+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:34.153+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:06:34.170+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:06:34.170+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:06:34.208+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.134 seconds
+[2026-06-30T01:07:04.301+0000] {processor.py:186} INFO - Started process (PID=8713) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:04.303+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:07:04.308+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:04.307+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:04.331+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:04.366+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:04.366+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:07:04.381+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:04.381+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:07:04.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.117 seconds
+[2026-06-30T01:07:34.594+0000] {processor.py:186} INFO - Started process (PID=8718) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:34.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:07:34.601+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:34.600+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:34.626+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:07:34.660+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:34.660+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:07:34.675+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:07:34.674+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:07:34.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.117 seconds
+[2026-06-30T01:08:05.110+0000] {processor.py:186} INFO - Started process (PID=8723) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:05.114+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:08:05.118+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:05.118+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:05.145+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:05.184+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:05.184+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:08:05.201+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:05.200+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:08:05.230+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.128 seconds
+[2026-06-30T01:08:35.570+0000] {processor.py:186} INFO - Started process (PID=8728) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:35.572+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:08:35.576+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:35.575+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:35.610+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:08:35.648+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:35.648+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:08:35.665+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:08:35.665+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:08:35.696+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.133 seconds
+[2026-06-30T01:09:06.459+0000] {processor.py:186} INFO - Started process (PID=8733) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:06.460+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:09:06.465+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:06.464+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:06.491+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:06.525+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:06.525+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:09:06.540+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:06.540+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:09:06.577+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.125 seconds
+[2026-06-30T01:09:37.198+0000] {processor.py:186} INFO - Started process (PID=8738) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:37.199+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:09:37.203+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:37.203+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:37.226+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:09:37.258+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:37.258+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:09:37.273+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:09:37.273+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:09:37.300+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.110 seconds
+[2026-06-30T01:10:08.015+0000] {processor.py:186} INFO - Started process (PID=8743) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:08.018+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:10:08.022+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:08.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:08.047+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:08.081+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:08.081+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:10:08.097+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:08.097+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:10:08.128+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.120 seconds
+[2026-06-30T01:10:38.942+0000] {processor.py:186} INFO - Started process (PID=8748) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:38.944+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:10:38.948+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:38.947+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:38.972+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:10:39.007+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:39.006+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:10:39.022+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:10:39.021+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:10:39.051+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.118 seconds
+[2026-06-30T01:11:09.733+0000] {processor.py:186} INFO - Started process (PID=8753) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:09.735+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:11:09.739+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:09.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:09.763+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:09.797+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:09.797+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:11:09.812+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:09.812+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:11:09.841+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.117 seconds
+[2026-06-30T01:11:40.497+0000] {processor.py:186} INFO - Started process (PID=8758) to work on /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:40.499+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/etl_oltp_to_dw.py for tasks to queue
+[2026-06-30T01:11:40.503+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:40.502+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:40.529+0000] {processor.py:925} INFO - DAG(s) 'etl_oltp_to_dw' retrieved from /opt/airflow/dags/etl_oltp_to_dw.py
+[2026-06-30T01:11:40.563+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:40.563+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-06-30T01:11:40.580+0000] {logging_mixin.py:190} INFO - [2026-06-30T01:11:40.579+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_oltp_to_dw to None, run_after=None
+[2026-06-30T01:11:40.610+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/etl_oltp_to_dw.py took 0.122 seconds
